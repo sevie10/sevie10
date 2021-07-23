@@ -4,7 +4,7 @@
 - 🌱 Currently learning : ArcGIS.
 - 💬 Ask me about: Angular, JavaScript, HTML, CSS.
 - 😄 Pronouns: He/Him.
-- 📫 How to reach me: <a href="mailto:eshmaelsevilla@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/eshmael-sevilla-0a974ce6">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:eshmaelsevilla@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/eshmael-sevilla-0a974ce6">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.eshmaelsevilla.com">![WebSite](https://img.shields.io/badge/-WEBSITE-blue?style=for-the-badge&logoColor=white)</a>
 
 ## Tech Stack
 <p>
