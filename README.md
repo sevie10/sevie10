@@ -20,8 +20,8 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=esevillaGPOne&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevie10&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=sevie10&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=esevillaGPOne&theme=dark" width="48%" >
 
 ## Top Languages
   
