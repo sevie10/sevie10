@@ -1,7 +1,7 @@
 # Hi there. I am Esh 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sevie10.repoName)
 
 - 🔭 I am currently working as a Front End Developer.
-- 💬 My favourite IDE: <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-squares&logo=visualstudiocode&logoColor=white" />
+- :computer: My favourite IDE: <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-squares&logo=visualstudiocode&logoColor=white" />
 - 🌱 Currently learning : ArcGIS, AppStudio for ArcGIS, Qt, QML, Dojo Toolkit.
 - 💬 Ask me about: Angular, JavaScript, HTML, CSS.
 - 😄 Pronouns: He/Him.
